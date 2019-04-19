@@ -1,6 +1,7 @@
 # SOEN6611
 
 File Structure of the Repository
+
 I) Folder "CodeCoverage" contains raw data regarding Statement Coverage and Branch Coverage produced by JaCoCo. Subfolders are divided by projects' name.
 II) Folder "Mutation Testing" contains raw data for mutation testing
 III) Folder "McCabe" contains raw data for McCabe cyclomatic complexity.
