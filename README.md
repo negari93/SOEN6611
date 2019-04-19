@@ -10,6 +10,7 @@ VI) Folder "Findbugs" contains raw data collected for static analysis.
 
 
 Requirements:
+
 1- Intellij IDEA it has JaCoCo as a built in plugin. JaCoCo has been used for both metrics 1 and 2.
 2- PIT plugin needs to be installed to perform mutation testing.
 3- Tool for McCabe 
@@ -26,6 +27,7 @@ Team Members:
 
 
 Configurations in order to get data for each metric:
+
 1- Code Coverage: We have used JaCoCo which is a build in plug in in Intellij IDEA.
 1.a Select the project, from "Run" select "Edit Configuration" then click on + to add a new configuration. Select Junit as your test configuration. Tesk kind should be chosen as "All in package". Then prefered package has to be chosen. Intellij will automaticaly detect required module, in case a no module found error appears you need to select projects module. On the "Code Coverage" tab select JaCoCo and then add package to perform the coverage on.
 2- Make sure that for Intellij check if SDK 1.8 is imported. This can be checked from File -> Project Structure -> Project -> Project SDK and choose 1.8. Also select Project language level as 8- Lambdas, type annotations etc.
