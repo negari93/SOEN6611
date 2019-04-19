@@ -18,8 +18,8 @@ Requirements:
 https://github.com/AlDanial/cloc/releases 
 5- Finbugs plugin offered by Intellij IDEA to collect data for sixth metric
 
-Team Members:
 
+Team Members:
 Balpreet Singh	40070817
 
 Kritika Saini	40049120
