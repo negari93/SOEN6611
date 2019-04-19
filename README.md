@@ -19,11 +19,11 @@ https://github.com/AlDanial/cloc/releases
 5- Finbugs plugin offered by Intellij IDEA to collect data for sixth metric
 
 Team Members:
-1- Negar Sadeghi 40028394
-2-
-3-
-4-
-5-
+Balpreet Singh	40070817
+Kritika Saini	40049120
+Negar Sadeghi	40028394
+Shubham Sagar	40089224
+Subhodip Ray	40080104
 
 
 Configurations in order to get data for each metric:
