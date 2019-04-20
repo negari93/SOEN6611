@@ -39,4 +39,3 @@ Configurations in order to get data for each metric:
 2- Make sure that for Intellij check if SDK 1.8 is imported. This can be checked from File -> Project Structure -> Project -> Project SDK and choose 1.8. Also select Project language level as 8- Lambdas, type annotations etc.
 3- Junit.jar file has to be added to project settings: File -> Project Structure -> Modules -> Dependencies if no Junit.jar file is added by default you need to look for it in the place you have downloaded it and add it to dependencies. Scope of this jar file is test.
 
-To be noted: Kindly ignore any other folder that is not mentioned in the file Structure section.
