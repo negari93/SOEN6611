@@ -1,0 +1,7 @@
+Language, == files, != files, + files, - files, == blank, != blank, + blank, - blank, == comment, != comment, + comment, - comment, == code, != code, + code, - code, "github.com/AlDanial/cloc v 1.80 T=1 s"
+Bourne Shell, 2, 0, 0, 0, 17, 0, 0, 0, 1, 0, 0, 0, 30, 0, 0, 0, 
+YAML, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 2, 0, 0, 
+XML, 7, 0, 0, 0, 37, 0, 0, 0, 126, 0, 0, 0, 348, 0, 0, 0, 
+Maven, 0, 13, 0, 0, 0, 0, 0, 0, 201, 0, 1, 0, 934, 14, 1, 5, 
+Markdown, 6, 1, 0, 0, 68, 0, 0, 0, 0, 0, 0, 0, 193, 1, 0, 0, 
+Java, 287, 32, 0, 14, 4331, 0, 2, 179, 14358, 15, 0, 373, 20540, 78, 80, 956, 

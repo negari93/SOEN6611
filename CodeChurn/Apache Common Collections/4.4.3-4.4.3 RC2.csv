@@ -1,0 +1,9 @@
+Language, == files, != files, + files, - files, == blank, != blank, + blank, - blank, == comment, != comment, + comment, - comment, == code, != code, + code, - code, "github.com/AlDanial/cloc v 1.80 T=3 s"
+Velocity Template Language, 1, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 126, 0, 0, 0, 
+Markdown, 2, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 184, 0, 0, 0, 
+HTML, 4, 0, 0, 0, 53, 0, 0, 0, 58, 0, 0, 0, 280, 0, 0, 0, 
+XML, 25, 0, 0, 0, 254, 0, 0, 0, 482, 0, 0, 0, 2847, 0, 0, 0, 
+YAML, 1, 0, 0, 0, 4, 0, 0, 0, 14, 0, 0, 0, 9, 0, 0, 0, 
+Maven, 1, 0, 0, 0, 31, 0, 0, 0, 37, 0, 0, 0, 687, 0, 0, 0, 
+Bourne Shell, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 
+Java, 536, 0, 0, 0, 13399, 0, 0, 0, 44216, 0, 0, 0, 62869, 0, 0, 0, 
