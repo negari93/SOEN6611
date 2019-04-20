@@ -3,7 +3,7 @@
 File Structure of the Repository
 
 I) Folder "CodeCoverage" contains raw data regarding Statement Coverage and Branch Coverage produced by JaCoCo. Subfolders are divided by projects' name.
-II) Folder "Mutation Testing" contains raw data for mutation testing
+II) Folder "Mutation.rar" contains raw data for mutation testing. Due to size of file copressed folder is added.
 III) Folder "McCabe" contains raw data for McCabe cyclomatic complexity.
 IV) Folder "CodeChurn" contains raw data collected for code churn as fifth metric
 VI) Folder "Findbugs" contains raw data collected for static analysis. Since size of this folder was too big to upload in git, we have provided the compressed version of it.
